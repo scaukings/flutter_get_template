@@ -1,0 +1,18 @@
+{
+  "@@locale": "en_US",
+  "@@last_modified": "2023-05-22T18:28:37.432940",
+  "appName": "Smart Device Applications",
+  "@appName": {
+    "description": "应用名称的名称",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "tabHome": "home",
+  "@tabHome": {
+    "description": "首页tab标签的label",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "@@locale": "zh_CN",
+  "@@last_modified": "2023-05-23T13:51:47.115608",
+  "appName": "智能设备应用",
+  "@appName": {
+    "description": "应用名称的名称",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "tabHome": "首页",
+  "@tabHome": {
+    "description": "首页tab标签的label",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "homeTab0Label": "设备",
+  "@homeTab0Label": {
+    "description": "设备页面tab",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "homeTab1Label": "AI助手",
+  "@homeTab1Label": {
+    "description": "AI助手页面tab",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "homeTab2Label": "互动",
+  "@homeTab2Label": {
+    "description": "互动页面tab",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  },
+  "homeTab3Label": "我的",
+  "@homeTab3Label": {
+    "description": "我的页面tab",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
+  }
+}
