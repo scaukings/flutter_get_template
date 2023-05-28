@@ -18,6 +18,8 @@ class Global {
     WidgetsFlutterBinding.ensureInitialized();
     // 初始化loading
     Loading.init();
+    // 设置系统UI
+    setSystemUi();
     // 初始化service
     await _initService();
   }
